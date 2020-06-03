@@ -1,6 +1,4 @@
 # Write your solution here
-puts "Code before if...end"
-if run_code_inside
-  puts "code inside"
-end
-puts "Code after if...end"
+current_time = Time.now
+
+if
